@@ -1,6 +1,6 @@
 Code Book
 
-The script "run_analysis.R" performs the 5 steps required in the course project.
+The script "run_analysis.R" performs the 5 steps required for the course project.
 
 Step 1 - Merge the training and test sets to create one data set.
 Step 2 - Extract only the measurements on the mean and standard deviation for each measurement.
